@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToStartTestingWithNUnit", "HowToStartTestingWithNUnit\HowToStartTestingWithNUnit.csproj", "{08202D1B-15BB-4218-91A9-761E53FB9252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToStartTestingWithNUnit.Tests", "HowToStartTestingWithNUnit.Tests\HowToStartTestingWithNUnit.Tests.csproj", "{C5B0ACF4-8CC0-4BCD-B918-30197BDDCC8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{08202D1B-15BB-4218-91A9-761E53FB9252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08202D1B-15BB-4218-91A9-761E53FB9252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08202D1B-15BB-4218-91A9-761E53FB9252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B0ACF4-8CC0-4BCD-B918-30197BDDCC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B0ACF4-8CC0-4BCD-B918-30197BDDCC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B0ACF4-8CC0-4BCD-B918-30197BDDCC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B0ACF4-8CC0-4BCD-B918-30197BDDCC8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
