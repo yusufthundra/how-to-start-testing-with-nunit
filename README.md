@@ -2,7 +2,7 @@
 
 ## Description
 
-This project shows basic using of NUnit library for unit testing .Net project. It was used as an example for a post on our blog.
+This project shows basic using of NUnit library for unit testing .Net project. It was used as an example for a [post](https://ermlab.com/2018/05/25/zaczac-testowac-aplikacje-net-wykorzystaniem-nunit/) on our blog.
 
 In project we show:
 - Usage of TestFixtureAttribute and TestAttribute
